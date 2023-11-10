@@ -7,12 +7,12 @@ int main(void)
 	{
 		if (i % 13 == 0)
 		{
-			printf("%d\n",i);
+			printf("%d\n", i);
 		}
 		else if (i % 17 == 0)
 		{
-			printf("%d\n",i);
+			printf("%d\n", i);
 		}
 	}
-		return 0;
+	return 0;
 }
