@@ -9,7 +9,7 @@ int main(void)
 		{
 			printf("%d\n",i);
 		}
-		if (i % 17 == 0)
+		else if (i % 17 == 0)
 		{
 			printf("%d\n",i);
 		}
